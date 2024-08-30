@@ -1,5 +1,5 @@
 # Problema a resolver
-Em um arquivo chamado `ola.c`, em uma pasta chamada `eu`, implemente um programa em C que pergunte ao usuário o seu nome e depois diga olá para este usuário. Por exemplo, se o nome do usuário é Catatau, seu programa deverá apresentar `olá, Catatau`!
+Em um arquivo chamado `ola.c`, em uma pasta chamada `eu`, implemente um programa em C que pergunte ao usuário o seu nome e depois diga olá para este usuário. Por exemplo, se o nome do usuário é Catatau, seu programa deverá apresentar `olá, Catatau!`
 
 # Por onde começar
 1. Execute `cd` sozinho em seu terminal. Você deverá ver que o prompt de seu terminal irá mudar para apenas `$`.
