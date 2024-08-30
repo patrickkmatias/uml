@@ -1,7 +1,7 @@
 # Problema a resolver
 Em um arquivo chamado `ola-mundo.c`, em uma pasta chamada `mundo`, implemente um programa em C que escreva `olá, mundo!`, e é isto!
 
-# Como começar
+# Por onde começar
 1. Abra o [VSCode](https://cs50.dev)
 2. Comece clicando na janela do Terminal, e execute o comando `cd` sozinho. Você deverá notar que o prompt do terminal deverá ser um sifrão `$`.
 3. Depois execute `mkdir mundo` para criar uma pasta chamada `mundo` em seu *codespace*.
