@@ -1,5 +1,6 @@
 # Palavras Cruzadas
-[Imagem: Palavras Cruzadas](https://.)
+![Imagem: Palavras Cruzadas](https://github.com/user-attachments/assets/417e5148-543a-4719-b065-472a71f11f47)
+
 # Problema a resolver
 No jogo *Palavras Cruzadas*, os jogadores criam palavras que se cruzam para ganhar pontos e o número de pontos é a soma dos valores das letras na palavra.
 
