@@ -13,7 +13,7 @@ Por exemplo, se quisermos marcar a palavra "CODE", notaremos que 'C' vale 3 pont
 Em um arquivo chamado `palavras-cruzadas.c` em uma pasta chamada `palavras-cruzadas`, implemente um programa em C que determine o vencedor de um curto jogo de Palavras Cruzadas. O programa deve solicitar duas entradas: uma vez para "Jogador 1" inserir a palavra e uma vez para "Jogador 2" inserir a palavra. Então, dependendo de qual jogador marcar mais pontos, o programa deve apresentar "Jogador 1 venceu!", "Jogador 2 venceu!" ou "Empate!" (no caso de os dois jogadores marcarem a mesma quantidade de pontos).
 
 # Demonstração
-<script data-autoplay="1" data-cols="80" data-loop="1" data-rows="12" id="asciicast-74B4kq3ftleKe6AdN0NxFV8CN" src="https://asciinema.org/a/74B4kq3ftleKe6AdN0NxFV8CN.js"></script>
+![Demonstração: Palavras Cruzadas](https://github.com/user-attachments/assets/13c9ca02-21a6-431f-b4dc-1f4dd50edf1e)
 
 # Conselhos
 <details>
