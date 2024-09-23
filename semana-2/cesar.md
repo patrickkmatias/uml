@@ -1,6 +1,6 @@
 # César
 
-[Imagem: Cesar Cipher Disk]()
+![cipher](https://github.com/user-attachments/assets/026b2b33-04c0-43da-ab26-906fb5cf555d)
 
 # Problema a resolver
 Supostamente, César (sim, aquele César) costumava "criptografar" (ou seja, ocultar de forma reversível) mensagens confidenciais mudando cada letra por alguns lugares. Por exemplo, ele poderia escrever A como B, B como C, C como D, ..., e, voltando ao começo do alfabeto, Z como A. Então, para dizer OLÁ para alguém, César poderia escrever IFMMP. Ao receberem essas mensagens de César, os destinatários precisariam "descriptografá-las" mudando as letras na direção oposta pelo mesmo número de lugares.
